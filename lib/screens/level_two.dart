@@ -11,6 +11,7 @@ class LevelTwo extends StatefulWidget {
 class _LevelTwoState extends State<LevelTwo> with ColorGeneration {
   List<String> textArray = [
     "Hi",
+    "this",
     "is",
     "test",
     "application",
