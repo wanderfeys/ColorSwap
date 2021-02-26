@@ -1,6 +1,6 @@
 # ColorSwap
 
-A new Flutter project.
+ColorSwap is test project.
 
 ## Getting Started
 
