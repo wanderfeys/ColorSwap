@@ -1,6 +1,6 @@
 # ColorSwap
 
-Color swap is test project.
+ColorSwap is test project.
 
 ## Getting Started
 
