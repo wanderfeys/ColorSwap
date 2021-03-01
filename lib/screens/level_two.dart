@@ -22,7 +22,7 @@ class _LevelTwoState extends State<LevelTwo> with ColorGeneration {
 
   var _index = 0;
 
-  /// returns new  item for text widget
+  /// Returns new  item for text widget
   changeText() {
     _index++;
     if (_index >= textArray.length) {

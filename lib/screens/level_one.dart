@@ -19,7 +19,7 @@ class _LevelOneState extends State<LevelOne> with ColorGeneration {
           routeName: 'levelTwo',
         ),
         body: GestureDetector(
-          //Return's new color for background when user is tap on screen
+          //Returns new color for background when user is tap on screen
           onTap: () {
             setState(() {
               colorGenerate();

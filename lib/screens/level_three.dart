@@ -13,7 +13,7 @@ class _LevelThreeState extends State<LevelThree> {
   final Color backgroundColor = Color(0xFFfc8d8d);
   BorderRadiusGeometry _borderRadius = BorderRadius.circular(30);
 
-  ///animation of a changing container with a picture
+  ///Animation of a changing container with a picture
   animationTap() {
     final random = Random();
     //Generate a random width and heigh
